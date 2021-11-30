@@ -1,0 +1,189 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Domine&family=Prata&family=Spartan:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Domine&family=Orbitron&family=Prata&family=Spartan:wght@300&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Orbitron', sans-serif;
+}
+
+header {
+  width: 100%;
+  height: 120px;
+  color: whitesmoke;
+  text-align: center;
+  font-size: 3rem;
+  position: fixed;
+  object-fit: cover;
+  background-image: url(https://www.teahub.io/photos/full/90-907879_league-of-legends-project-city.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  box-shadow: 0 10px 15px 5px rgba(0,0,0,0.5);
+  z-index: 10;
+}
+
+
+body {
+  position: relative;
+}
+
+.bimg {
+  background-image: url(https://wallpapercave.com/wp/wp7083319.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 300vh;
+
+}
+
+
+.content {
+  position: absolute;
+  margin-top: 200px;
+  display: grid;
+  grid-template: 650px 650px / 300px 300px 300px;
+  justify-content: space-evenly;
+  margin-left: 50px;
+  grid-gap: 40px;
+  
+}
+
+.project img {
+  height: 370px;
+  width: 300px;
+  object-fit: cover;
+  border-radius: 10px 10px 0 0;
+  opacity: 0.9;
+}
+
+.project {
+  text-align: center;
+  transition: 0.2s ease-out;
+}
+
+.project a {
+  text-decoration: none;
+  color: white;
+}
+
+.project h2 {
+  margin-top: 20px;
+}
+
+.project p {
+  padding: 20px;
+  text-align: left;
+}
+
+.content div {
+  border-radius: 10px;
+  box-shadow: 0 0 10px 5px rgba(0,0,0,0.5);
+  /*glass effect*/
+  background-color: #ffffff10;
+  backdrop-filter: blur(2px);
+  -webkit-backdrop-filter: blur(2px);
+}
+
+a:hover {
+  color: #A94823;
+}
+
+.project:hover {
+  transform: scale(1.05);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
